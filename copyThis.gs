@@ -4,14 +4,17 @@
   VERSION: 4
 */
 
+//===============================================
 function prepare(){
   YouTubeUploadDataProcessor.ytDecember();
 }
 function onOpen(){
   YouTubeUploadDataProcessor.process();
 }
+//===============================================
 
 /*
+  Author Info.
   Author: Shams-E-Shifat
   Contact: sshifat022@gmail.com
 */
