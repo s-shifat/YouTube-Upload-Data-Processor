@@ -32,6 +32,8 @@ named **Team Automation** in the spread sheet ui, similar to
 [this](https://github.com/s-shifat/YouTube-Upload-Data-Processor/blob/main/images/Team%20Automation%20Tab.png).
 5. Finally, to execute the program, click **Team Automation**>**Process Data for YouTube Upload**, follow the instructions. This will create a new sheet named **Processed Output** with processed data.
 
+**Note: *Steps 1 to 4* has to be done only the first time you inject a code into the spreadsheet. After that, for the same spreadsheet, you only have to follow *step 5* and The steps written below:**
+
 ### Uploading to YouTube Channel:
 
 ---
@@ -47,4 +49,4 @@ named **Team Automation** in the spread sheet ui, similar to
 
 ---
 
-- [Watch This Video Tutorial](https://www.youtube.com/channel/UCKiRlGROahmtsYBpykR3tyA/videos?view_as=subscriber)
+- [Watch This Video Tutorial](https://youtu.be/P00qykDrTj4)
