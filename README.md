@@ -25,7 +25,7 @@ which can be easily used with another particular third party tool which uploads 
 3. In the code, there is a SCRIPT ID at line 2. Copy this.
     * Now from this editor go to **Resources** > **Libraries...** or **Libraries +**. Paste the SCRIPT ID you have copied into the **Add a library** section and click on **Add** button.
     * A Library with Title *YouTubeUploadDataProcessor* is added. Select the latest version, which is currently 4.
-    * Beforre clicking on save, the window will look something like [this](https://github.com/s-shifat/YouTube-Upload-Data-Processor/blob/main/images/LibrariesWindow.JPG). Now click on Save.
+    * Beforre clicking on save, the window will look something like [this](https://github.com/s-shifat/YouTube-Upload-Data-Processor/blob/main/images/Team%20Automation%20Tab.png). Now click on Save.
   - *Note: If there is a persmission issue, contact me.*
 4. Okey, Now everything is set. Now go to the your spread sheet tab in the browser and refresh it. If the steps were followed correctly then you should see a new tab
 named **Team Automation** in the spread sheet ui, similar to [this](https://github.com/s-shifat/YouTube-Upload-Data-Processor/blob/main/images/LibrariesWindow.JPG).
