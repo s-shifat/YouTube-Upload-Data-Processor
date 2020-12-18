@@ -27,12 +27,18 @@ which can be easily used with another particular third party tool which uploads 
     * A Library with Title *YouTubeUploadDataProcessor* is added. Select the latest version, which is currently 4.
     * Beforre clicking on save, the window will look something like [this](https://github.com/s-shifat/YouTube-Upload-Data-Processor/blob/main/images/Team%20Automation%20Tab.png). Now click on Save.
   - *Note: If there is a persmission issue, contact me.*
-4. Okey, Now everything is set. Now go to the your spread sheet tab in the browser and refresh it. If the steps were followed correctly then you should see a new tab
+4. Okey, Now everything is set. Now go to the your spread sheet tab in the browser and refresh it. If the steps were followed correctly then you should see a new menu
 named **Team Automation** in the spread sheet ui, similar to
 [this](https://github.com/s-shifat/YouTube-Upload-Data-Processor/blob/main/images/Team%20Automation%20Tab.png).
-5. Finally, to execute the program, click **Team Automation**>**Process Data for YouTube Upload**, follow the instructions. This will create a new sheet named **Processed Output** with processed data.
 
-**Note: You need to follow *Steps 1 to 4* only the first time you inject `copyThis.gs` into the spreadsheet. After that, for the same spreadsheet, you only have to follow *step 5* and The steps written below:**
+###### **Note: You need to follow *Steps 1 to 4* only the first time you inject `copyThis.gs` into the spreadsheet. After that, for the same spreadsheet, you only have to follow the steps written below:**
+
+### Executing ***Team Automation*** Menu:
+
+---
+
+To execute the program, click **Team Automation**>**Process Data for YouTube Upload**, follow the instructions. This will create a new sheet named **Processed Output** with processed data.
+
 
 ### Uploading to YouTube Channel:
 
