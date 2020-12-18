@@ -28,7 +28,8 @@ which can be easily used with another particular third party tool which uploads 
     * Beforre clicking on save, the window will look something like [this](https://github.com/s-shifat/YouTube-Upload-Data-Processor/blob/main/images/Team%20Automation%20Tab.png). Now click on Save.
   - *Note: If there is a persmission issue, contact me.*
 4. Okey, Now everything is set. Now go to the your spread sheet tab in the browser and refresh it. If the steps were followed correctly then you should see a new tab
-named **Team Automation** in the spread sheet ui, similar to [this](https://github.com/s-shifat/YouTube-Upload-Data-Processor/blob/main/images/LibrariesWindow.JPG).
+named **Team Automation** in the spread sheet ui, similar to
+[this](https://github.com/s-shifat/YouTube-Upload-Data-Processor/blob/main/images/Team%20Automation%20Tab.png).
 5. Finally, to execute the program, click **Team Automation**>**Process Data for YouTube Upload**, follow the instructions. This will create a new sheet named **Processed Output** with processed data.
 
 ### Uploading to YouTube Channel:
