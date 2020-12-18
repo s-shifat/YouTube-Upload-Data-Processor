@@ -16,5 +16,5 @@ which can be easily used with another particular third party tool which uploads 
 3. In the code, there is a PROJECT ID at the first line. Copy this.
   * Now from this editor go to **Resources** > **Libraries...**. Paste the PROJECT ID you have copied into the **Add a library** section and click on **Add** button.
   * A Library with Title *YouTubeUploadDataProcessor* is added. Select the latest version, which is currently 4.
-  * Beforre clicking on save, the window should look similar to [this](https://github.com/s-shifat/YouTube-Upload-Data-Processor/blob/images/LibrariesWindow.JPG). Now click on Save.
+  * Beforre clicking on save, the window should look similar to [this](https://github.com/s-shifat/YouTube-Upload-Data-Processor/images/LibrariesWindow.JPG). Now click on Save.
   Note: If there is a persmission issue, contact me.
