@@ -41,3 +41,9 @@ named **Team Automation** in the spread sheet ui, similar to [this](https://gith
 4. Now go to **Video MetaData Options**. In the **Default video description** box paste the video description. You will find this from **Processed Output** sheet of your spreadsheet under a column named **Description**.
 5. Now in the YouTube Uploader tab, click on **Add to Upload List**.
 6. Finally, click on **Upload to YouTube** button, this will start uploading the videos.
+
+### Tutorial and References:
+
+---
+
+- [Watch This Video Tutorial](https://www.youtube.com/channel/UCKiRlGROahmtsYBpykR3tyA/videos?view_as=subscriber)
