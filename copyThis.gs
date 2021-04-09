@@ -1,7 +1,7 @@
 /*
   PROJECT TITLE: YouTubeUploadDataProcessor
   SCRIPT ID: 1huYtOpoty3yHDH0uKrLAkP95U8eLENcnqJlh-lo8AeGpYxlo1wKRcLLM
-  VERSION: 4
+  VERSION: 5
 */
 
 //===============================================
